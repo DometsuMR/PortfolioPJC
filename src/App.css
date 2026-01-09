@@ -47,3 +47,11 @@ html, body {
 .read-the-docs {
   color: #888;
 }
+
+nav {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5);
+}

@@ -4,7 +4,7 @@ export default function HeroPage() {
     <section style={{ padding: '4rem'}}>
       <div>
         <div>
-            <h1>Pau Juárez Carrillo </h1>
+            <h2>Pau Juárez Carrillo </h2>
             <p>Bienvenido a mi portafolio</p>
         </div>
         <div>
