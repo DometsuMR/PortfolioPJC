@@ -1,10 +1,17 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+html, body {
+  height: 100%;   /* hace que el body ocupe toda la ventana */
+  margin: 0;
 }
 
+#root {
+  display: flex;
+  flex-direction: column; /* apila Navbar / contenido / Footer */
+  min-height: 100vh;      /* al menos el alto de la pantalla */
+}
+
+.AppRouter {  /* contenedor que envuelve Routes */
+  flex: 1; /* ocupa todo el espacio disponible */
+}
 .logo {
   height: 6em;
   padding: 1.5em;
