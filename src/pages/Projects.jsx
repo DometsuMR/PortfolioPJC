@@ -1,6 +1,6 @@
 export default function ProjectsPage() {
   const proyectos = [
-    { name: "Proyecto 1", desc: "Descripción del proyecto 1", link: "/ProtocoloSupremacia-1.0-web/index.html" },
+    { name: "Novela Visual", desc: "Creado con Rem py", link: "/ProtocoloSupremacia-1.0-web/index.html" },
     { name: "Proyecto 2", desc: "Descripción del proyecto 2", link: "#" }
   ]
 
