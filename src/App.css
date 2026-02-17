@@ -12,6 +12,7 @@ html, body {
 .AppRouter {  /* contenedor que envuelve Routes */
   flex: 1; /* ocupa todo el espacio disponible */
 }
+
 .logo {
   height: 6em;
   padding: 1.5em;
